@@ -14,7 +14,7 @@
 
 **Пример**
 
-![Сборка БЭМ-проекта](https://rawgit.com/bem-site/bem-method/godfreyd-methodology-deps/method/build/build__bem-project.svg#hh)
+![Сборка БЭМ-проекта](https://rawgit.com/bem-site/bem-method/godfreyd-methodology-deps/method/build/build__bem-project.svg#####)
 
 ## Задачи сборки
 
