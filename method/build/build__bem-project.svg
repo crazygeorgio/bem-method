@@ -8,7 +8,7 @@
 	<![CDATA[
 		.st1 {fill:#f2f2f2;marker-end:url(#mrkr13-4);stroke:#f2f2f2;stroke-linecap:butt;stroke-width:1.5}
 		.st2 {fill:#f2f2f2;fill-opacity:1;stroke:#f2f2f2;stroke-opacity:1;stroke-width:0.37313432835821}
-		.st3 {fill:url(#grad0-8);stroke:#000000;stroke-linecap:butt;stroke-width:1.2}
+		.st3 {fill:url(#grad0-8);stroke:#000000;stroke-linecap:butt;stroke-width:1.1}
 		.st4 {fill:#ffcc00;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.72}
 		.st5 {fill:none;marker-end:url(#mrkr13-14);stroke:none;stroke-linecap:butt;stroke-width:1.5}
 		.st6 {fill:#ffcc00;fill-opacity:1;stroke:#ffcc00;stroke-opacity:1;stroke-width:0.37313432835821}
@@ -72,9 +72,9 @@
 	</defs>
 	<g>
 		<title>scheme1</title>
-		<g id="shape206-1" transform="translate(594.442,-15.0069)">
+		<g id="shape206-1" transform="translate(589.039,-15.0069)">
 			<title>Подложка с рамкой 700x450 px.545</title>
-			<rect x="0" y="41.574" width="179.622" height="317.48" class="st1"/>
+			<rect x="0" y="41.574" width="185.025" height="317.48" class="st1"/>
 		</g>
 		<g id="shape125-5" transform="translate(339.415,-113.386)">
 			<title>Sheet.125</title>
