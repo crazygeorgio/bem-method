@@ -43,7 +43,7 @@
 
 ![Сборка БЭМ-проекта](https://rawgit.com/bem-site/bem-method/godfreyd-methodology-deps/method/build/build__declaration.svg##)
 
-В данном примере на основе списка БЭМ-сущностей (Declaration) в бандлы (`project.css`, `project.js`) попадают перечисленные блоки (`button`, `logo`, `input`).
+В данном примере на основе списка БЭМ-сущностей (Declaration) в бандлы попадают перечисленные блоки `button`, `logo`, `input`.
 
 > Сведения о том, как построить декларацию см. в разделе [Способы получения декларации](../declarations/declarations.ru.md#Способы-получения-декларации).
 
