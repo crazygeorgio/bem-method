@@ -67,7 +67,7 @@
 			<title>Sheet.216</title>
 			<rect x="0" y="330.975" width="63.7553" height="28.0793" class="st5"/>
 		</g>
-		<g id="group217-13" transform="translate(558.422,-46.322)">
+		<g id="group217-13" transform="translate(558.422,-88.8416)">
 			<title>Sheet.217</title>
 			<g id="shape218-14">
 				<title>c</title>
@@ -82,7 +82,7 @@
 							 Z" class="st4"/>
 			</g>
 		</g>
-		<g id="shape220-18" transform="translate(571.467,-54.378)">
+		<g id="shape220-18" transform="translate(571.467,-96.8977)">
 			<title>Sheet.220</title>
 			<desc>Button</desc>
 			<rect x="0" y="347.354" width="48.75" height="11.7" class="st6"/>
@@ -102,7 +102,7 @@
 							 Z" class="st8"/>
 			</g>
 		</g>
-		<g id="group224-26" transform="translate(192.614,-46.1884)">
+		<g id="group224-26" transform="translate(192.614,-88.708)">
 			<title>Sheet.224</title>
 			<g id="shape225-27">
 				<title>f</title>
@@ -122,21 +122,21 @@
 			<desc>Search</desc>
 			<rect x="0" y="347.354" width="51.0266" height="11.7" class="st6"/>
 			<text x="0" y="358" class="st7">Search</text>		</g>
-		<g id="shape228-34" transform="translate(184.532,-87.7909)">
+		<g id="shape228-34" transform="translate(184.532,-130.311)">
 			<title>Text (14).174</title>
 			<desc>Block &#34;input&#34;</desc>
 			<rect x="0" y="330.708" width="116.223" height="28.3465" class="st1"/>
 			<text x="6.97" y="349.68" class="st3">Block &#34;input&#34;</text>		</g>
-		<g id="shape229-38" transform="translate(526.162,-88.1411)">
+		<g id="shape229-38" transform="translate(526.162,-130.661)">
 			<title>Text (14).175</title>
 			<desc>Block &#34;button&#34;</desc>
 			<rect x="0" y="330.708" width="134.307" height="28.3465" class="st1"/>
 			<text x="10.69" y="349.68" class="st3">Block &#34;button&#34;</text>		</g>
-		<g id="shape230-42" transform="translate(-125.171,207.984) rotate(-90)">
+		<g id="shape230-42" transform="translate(-125.171,193.811) rotate(-90)">
 			<title>Basic Arrow 1.545</title>
 			<path d="M0 359.05 L51.02 359.05" class="st9"/>
 		</g>
-		<g id="shape231-50" transform="translate(234.517,207.984) rotate(-90)">
+		<g id="shape231-50" transform="translate(234.517,193.811) rotate(-90)">
 			<title>Basic Arrow 1.179</title>
 			<path d="M0 359.05 L51.02 359.05" class="st9"/>
 		</g>
